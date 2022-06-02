@@ -11,6 +11,7 @@ Dataset
 The dataset you have been provided with comes from data collected from games played by players in their 1st year in the NBA. It includes all rookies from 1980-2016. They're sorted by most minutes played and includes per game averages. In the NBA, a rookie is any player who has never played a game in the NBA until that year and the past 5 years. The dataset for this project can be found here [ https://bit.ly/NBARookiesDs ]. You can load this dataset from URL.
 
 Dataset Glossary
+
 ● name - description
 ● gp - games played
 ● min - minutes played
